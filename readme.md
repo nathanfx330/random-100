@@ -1,6 +1,3 @@
-Absolutely! Here's a polished **README.md** for your GitHub project for the `keep_random_100.sh` script:
-
-````markdown
 # keep_random_100.sh
 
 A simple Bash script to **recursively keep 100 random files per directory** and delete the rest. Ideal for **data testing** or reducing large datasets while keeping random samples.
@@ -72,18 +69,3 @@ Done. Kept up to 100 files per directory.
 ## License
 
 MIT License. Use freely and modify as needed.
-
----
-
-## Author
-
-Your Name
-
-```
-
----
-
-If you want, I can also create a **version with a “dry-run” flag** in the README instructions so users can test which files would be deleted **without actually deleting anything** — that’s very GitHub-friendly.  
-
-Do you want me to add that?
-```
