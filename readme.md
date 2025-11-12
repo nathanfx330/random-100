@@ -1,4 +1,4 @@
-# keep_random_100.sh
+# keep_it_100.sh
 
 A simple Bash script to **recursively keep 100 random files per directory** and delete the rest. Ideal for **data testing** or reducing large datasets while keeping random samples.
 
